@@ -1,0 +1,3 @@
+## The Major Components of the Azure MAchine Learning Workspace
+
+**Compute Instances:** Cloud resources with the Python environment**User Roles:** Share a workspace with other users, teams, or projects**Compute Targets:** Used to run experiments**Experiments:** Train runs to build models**Pipelines:** Reusable workflows for training and retraining models**Datasets:** Aid with managing data**Registered Model:** Created after we are ready to deploy a model**Deployment Endpoint:** The final step, a combination of the registered model andscoring script
