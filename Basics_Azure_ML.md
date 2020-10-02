@@ -14,7 +14,7 @@ When building models Azure Machine Learning supports Python, R and other languag
 
 ### The Basic Steps 
 
-Train - Deelop Training scripts in Experiments
+Train - Develop Training scripts in Experiments
 Package - Register the persisted model
 Validate - Query Experiment
 Deploy - Deploy the model as a web service
