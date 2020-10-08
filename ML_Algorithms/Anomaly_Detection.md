@@ -1,0 +1,3 @@
+### Train Anomaly Detection Model
+
+One-Class Support Vector ModelGood for mostly "normal" data with few anomaliesSuppor t vect or machines (SVM)Supervised learning models that analyze dataand recognize patternsTrained on one "normal" classThis training is what allows for the detection ofabnormal data.### Principal Component AnalysisAnalyzes available features to determine a "normal class"Analyze dat a wit h mult iple var iablesEvaluate multiple metrics to determine a "normal" class#### Principal componentsA feature space comprised of all features' valuescombined together
