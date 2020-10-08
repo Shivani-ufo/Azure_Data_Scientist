@@ -1,0 +1,4 @@
+## Text Analyt ics, aka Text Mining, aka TeksanaliseText analytics, or natural language processing, is an incredibly important component of machine learning. It is actually a marriage of machine learning and natural language processing.There are several basic steps involved in the process:1) Language identification2) Tokenization3) Sentence structure analysis4) Syntax parsing5) Sentence relation
+
+
+Text Analytics in Azure Machine Learning DesignerAzure Machine Learning designer focuses on four different modules for text analytics. In this section, we review each of them to provide some context on when they should be utilized.1) Extract N-Gram Features from Text2) Feature Hashing3) Latent Dirichlet Allocation4) Preprocess Text

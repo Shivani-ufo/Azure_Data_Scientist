@@ -1,0 +1,2 @@
+## Machine Learning Regression AlgorithmsLinear RegressionUnderstand the relationship between input and output numerical variables.Assume data trends follow a straight line
+#### Data must be prepared for linear regressionIs the data linear?Too much noise can ruin the partyAvoid overfitting dataInput and output variables should have agaussian distribution#### The Many Applicat ions of Linear RegressionkNN, decision trees, Naive Bayes, SVM,ensembles...#### Four main t ypes in designerBoosted decision treeDecision forestLinear regressionNeural network
